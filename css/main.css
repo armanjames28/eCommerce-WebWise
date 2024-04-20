@@ -1390,7 +1390,7 @@ padding-left: 100px; }
 /* start category area css
 ============================================================================================ */
 .single-deal {
-  width: 120%; /* Increase the width of the container */
+  width: 90%; /* Increase the width of the container */
   position: relative;
   margin-bottom: 100px;
 }
@@ -1420,20 +1420,20 @@ padding-left: 100px; }
 .category-header {
   position: absolute;
   top: 70%; /* Adjust the top position to make it lower */
-  right: calc(70% + 10px); /* Position to the left side of the image */
+  right: calc(80% + 10px); /* Position to the left side of the image */
   transform: translateY(-50%); /* Adjust to vertically center */
   width: 250px; /* Adjust width as needed */
-  top: 70px;
+  top: 150px;
   font-size: 28px;
   font-weight: 100px;
 }
 .category-paragraph {
   position: absolute;
   top: 80%; /* Adjust the top position to make it lower */
-  right: calc(50% + 10px); /* Position to the left side of the image */
+  right: calc(60% + 10px); /* Position to the left side of the image */
   transform: translateY(-50%); /* Adjust to vertically center */
   width: 400px; /* Adjust width as needed */
-  margin-top: 150px; /* Optional: Add margin between header and paragraph */
+  margin-top: 220px; /* Optional: Add margin between header and paragraph */
 }
 .browse-button {
   display: block;
@@ -1452,8 +1452,8 @@ padding-left: 100px; }
   text-align: center;
   margin-top: 30px; /* Adjust margin as needed */
   position: absolute;
-  top: calc(50% + 165px); /* Position below the paragraph */
-  right: calc(92% - 68px); /* Center horizontally */
+  top: calc(50% + 240px); /* Position below the paragraph */
+  right: calc(100% - 50px); /* Center horizontally */
 }
 .browse-button:hover {
   color: #000;
